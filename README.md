@@ -1,5 +1,3 @@
-[이고잉님 강의 링크](https://www.youtube.com/watch?v=0kQC19w0gTI)
-
 # docker commit
 
 ```bash
