@@ -1,4 +1,4 @@
-[이고잉님 강의 링크](youtube.com/watch?v=RMNOQXs-f68&t=2s)
+[이고잉님 강의 링크](https://www.youtube.com/watch?v=RMNOQXs-f68&t=2s)
 
 # $ docker-commit containers
 
